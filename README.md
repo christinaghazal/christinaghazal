@@ -55,17 +55,17 @@
 </div>
 
 ###
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christinaghazal)](https://github.com/anuraghazra/github-readme-stats)
+
+
+###
+
 
 <div align="center">
   <img height="200" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"  />
 </div>
 
-###
 
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christinaghazal)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
